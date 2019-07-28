@@ -1,3 +1,5 @@
+// Use a Mayfly data logger and GPSbee to log position to SD card.
+
 #include <TinyGPS.h>
 #include <Arduino.h>
 #include <SPI.h>
